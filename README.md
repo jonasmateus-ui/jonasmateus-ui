@@ -46,7 +46,25 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Análise e Desemvolvimento de Sistemas na Universidade Cidade De São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
+Estudante em Engenharia de Software com foco em Desenvolvimento Backend, Engenharia de Dados e Arquitetura de Sistemas.
+
+​A minha trajetória profissional me proporcionou forte disciplina, organização operacional e capacidade de resolução de problemas — competências que aplico diariamente na criação de soluções técnicas eficientes, bem estruturadas e escaláveis.
+
+​Destaques & Projetos:
+
+• Projeto Comuniq: Idealização, arquitetura e documentação técnica de um marketplace de serviços, integrando ecossistema de dados e assistente com Inteligência Artificial.
+
+• Engenharia & Modelagem de Dados: Criação de schemas, otimização de consultas e modelagem relacional estruturada com MySQL.
+
+• Desenvolvimento Backend: Criação de rotas, APIs e lógica de negócios utilizando Python, Java e C/C++.
+
+​ Stack & Ferramentas:
+
+• Linguagens: Python (Certificação MTA), Java, C, C++, SQL
+
+• Bancos de Dados: MySQL
+
+• Ferramentas & Práticas: Git, GitHub, Arquitetura de Sistemas, Análise de Dados, Estrutura de Dados e Algoritmos
  
 * **Habilidades Técnicas:** Python, Java e C++.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
